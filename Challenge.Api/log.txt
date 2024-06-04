@@ -1,0 +1,14 @@
+2024-06-02 21:35:26.061 -03:00 [INF] Request: GET /swagger responded in 80ms
+2024-06-02 21:35:26.215 -03:00 [INF] Request: GET /swagger/index.html responded in 128ms
+2024-06-02 21:35:26.299 -03:00 [INF] Request: GET /swagger/swagger-ui.css responded in 52ms
+2024-06-02 21:35:26.299 -03:00 [INF] Request: GET /swagger/swagger-ui-standalone-preset.js responded in 52ms
+2024-06-02 21:35:26.322 -03:00 [INF] Request: GET /swagger/swagger-ui-bundle.js responded in 75ms
+2024-06-02 21:35:26.667 -03:00 [INF] Request: GET /swagger/favicon-16x16.png responded in 0ms
+2024-06-02 21:35:26.870 -03:00 [INF] Request: GET /swagger/v1/swagger.json responded in 99ms
+2024-06-04 08:09:54.933 -03:00 [INF] Request: GET /swagger responded in 92ms
+2024-06-04 08:09:55.122 -03:00 [INF] Request: GET /swagger/index.html responded in 159ms
+2024-06-04 08:09:55.208 -03:00 [INF] Request: GET /swagger/swagger-ui.css responded in 44ms
+2024-06-04 08:09:55.210 -03:00 [INF] Request: GET /swagger/swagger-ui-standalone-preset.js responded in 47ms
+2024-06-04 08:09:55.235 -03:00 [INF] Request: GET /swagger/swagger-ui-bundle.js responded in 71ms
+2024-06-04 08:09:55.379 -03:00 [INF] Request: GET /swagger/favicon-16x16.png responded in 0ms
+2024-06-04 08:09:55.588 -03:00 [INF] Request: GET /swagger/v1/swagger.json responded in 147ms
