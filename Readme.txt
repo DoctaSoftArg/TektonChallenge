@@ -10,7 +10,8 @@ Este proyecto es una API de productos construida con ASP.NET Core que utiliza va
 2. Caching en Memoria: Utiliza IMemoryCache para cachear ciertos datos (como los estados de los productos) durante 5 minutos, mejorando el rendimiento de la API.
 3. Repositorio Genérico: Implementa un patrón de repositorio genérico para proporcionar una abstracción sobre los datos, lo que facilita el acceso y la manipulación de datos.
 4. Logging: Utiliza ILogger para registrar información de los request.
-5. Documentación con Swagger**: Utiliza Swagger como interfaz interactiva para explorar y probar los endpoints de la API.
+5. Base de datos: Utiliza utiliza sql server 2022.
+6. Documentación con Swagger: Utiliza Swagger como interfaz interactiva para explorar y probar los endpoints de la API.
 
 ## Tecnologías Utilizadas
 
