@@ -1,6 +1,5 @@
 using Challenge.Api.Middleware;
 using Challenge.DataAccess.Repository;
-using Challenge.DataAccess.Services;
 using Challenge.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -12,8 +11,6 @@ var builder = WebApplication.CreateBuilder(args);
 var services = builder.Services;
 var configuration = builder.Configuration;
 services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-
-services.AddSingleton<IProductStatusCacheService, ProductStatusCacheService>();
 
 services.AddMemoryCache();
 

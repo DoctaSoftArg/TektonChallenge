@@ -25,7 +25,6 @@ namespace Challenge.Api.Commands
 				FinalPrice = command.Price * (100 - command.Discount) / 100
 			};
 
-			//Price * (100 - Discount) / 100
 			await _repository.AddAsync(product);
 			return product;
 		}
